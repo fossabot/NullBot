@@ -1,0 +1,24 @@
+TODO:
+   Basic:
+        Exceptions (Plugins too ofc)
+    From SCP-079:
+        X Captcha | Provide challenges for newly joined members
+        X Clean | Filter specific types of messages
+        X Config | Manage the settings of each bot
+        X Language(Telegram) | Ban or delete by detecting the language
+        X NoPorn | Auto delete NSFW media messages
+        X NoFlood | Message-flooding prevention
+        X Tip | Here's a tip
+        X Long | Control super long messages
+        X Nospam(AD) | Block spam in groups
+        X Warn | Warn or ban someone by admin commands
+        X Watch | Observe and track suspicious spam behaviors
+        X?Regex | Manage regex patterns
+        X Hide(Telegram) | Hide the real sender
+        X?Avatar | Get newly joined member's profile photo
+        X Status(Web UI)| Check Linux server status (, including group(s))
+    Challenge:
+        Complete all the work with the least number of robots.
+        If possible, allow multiple robots to prevent action spam restrictions
+WARNING:
+    Not all plugins can be use on 2 platform. Specific platform will be marked if necessary.
